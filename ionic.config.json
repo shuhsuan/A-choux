@@ -1,0 +1,7 @@
+{
+  "name": "A-choux",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
