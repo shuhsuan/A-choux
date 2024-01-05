@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'com.galaxies.A-choux',
   appName: 'A-choux',
   webDir: 'dist',
   server: {
