@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.galaxies.A-choux',
+  appId: 'com.example.app',
   appName: 'A-choux',
   webDir: 'dist',
   server: {
