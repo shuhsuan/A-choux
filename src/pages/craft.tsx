@@ -237,7 +237,7 @@ import {
                       <li>Whip cream till floof - add sugar at some point to intended sweetness.</li><br/>
                       <IonRow><IonCol size="2"><img src={Point}id="point-img" onClick={() => {point4? setPoint4(false) : setPoint4(true)}}></img></IonCol><IonCol><p hidden={point4} id="point">Warning: Too much sugar may be quite sickly.</p></IonCol></IonRow>
                       <li>Pipe cream into <u>COOLED</u> pastries.</li><br/>
-                      <li>Melt choco and dip profiterole to make a choco cap. frfr.</li>
+                      <li>Melt choco and dip profiterole to make a choco cap. frfr. Test.</li>
                     </ol>
                   </IonCol>
                 </IonRow>

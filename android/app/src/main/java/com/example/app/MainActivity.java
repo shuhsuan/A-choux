@@ -1,4 +1,4 @@
-package com.galaxies.mycoolapp;
+package com.example.app;
 
 import com.getcapacitor.BridgeActivity;
 
